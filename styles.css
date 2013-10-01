@@ -1,0 +1,5 @@
+body { font-family: "Times New Roman"; }
+h1 { color: purple; font-family: "Arial";}
+h1 { color: red;}
+.out-of-stock { display: none;}
+.favorite { color: red;}
